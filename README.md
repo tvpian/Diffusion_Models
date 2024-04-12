@@ -1,1 +1,1 @@
-# Forward Diffusion Process
+# Stable Diffusion
